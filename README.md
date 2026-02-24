@@ -22,11 +22,10 @@ Com base em São Paulo, sou um profissional dedicado e curioso, sempre em busca 
 
 ## 📫 Contato
 
-Sinta-se à vontade para se conectar comigo! 
+Sinta-Se à Vontade Para se Conectar Comigo! 
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
-- [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE_SEU_EMAIL_AQUI)
-- [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](COLOQUE_SEU_LINK_AQUI)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolopesilveira/)
+- [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deveducontato@gmail.com
+)
+- [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/EduardoAntonioLopes)
 
----
-⭐️ *De São Paulo para o mundo do código!*
